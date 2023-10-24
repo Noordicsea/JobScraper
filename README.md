@@ -18,8 +18,6 @@ Installation
 
 First, clone the repository or download the script. Then, install the necessary Python packages using pip. Navigate to the directory where you've cloned the repository or saved the script and use the following command:
 
-bash
-
 pip install -r requirements.txt
 
 Note: You can manually install the dependencies by running: pip install requests beautifulsoup4.
