@@ -40,7 +40,9 @@ Important:
 
     THE JSON FILES MUST BE IN THE SAME DIRECTORY AS main.py FOR IT TO FIND IT.
     The script checks for the existence of JSON files corresponding to the directory and individual categories.
-    If these files exist, the script loads data from them **instead of re-scraping the website**, allowing for quicker access and reduced unnecessary network requests. If you want to refresh the data, you can delete the existing JSON files.
+    If these files exist, the script loads data from them **instead of re-scraping the website**
+    allowing for quicker access and reduced unnecessary network requests. 
+    If you want to refresh the data, you can delete the existing JSON files.
     The script handles network errors and scraping issues by providing error messages and failsafes to ensure a smooth user experience.
 
 Customization
