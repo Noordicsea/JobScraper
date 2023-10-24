@@ -45,14 +45,6 @@ Important:
     If you want to refresh the data, you can delete the existing JSON files.
     The script handles network errors and scraping issues by providing error messages and failsafes to ensure a smooth user experience.
 
-Customization
-
-You can modify or extend the script by editing the main.py file. Possible customizations include changing the source URL, adjusting the data points to scrape, or transforming the script into a more comprehensive application or data service.
-
-Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
-
 License
 Distributed under the MIT License. See LICENSE for more information.
 
